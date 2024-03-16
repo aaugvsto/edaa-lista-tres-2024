@@ -8,9 +8,6 @@ package org.app;
 import java.util.Scanner;
 
 public class App {
-    public App() {
-    }
-
     public static void main(String[] args) {
 
         System.out.println("Atividade 1:\n");
